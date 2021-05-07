@@ -6,6 +6,7 @@ The other file named test.csv was for the final predictions of the model.
 
 Data fields:
 Property Id - an anonymous id unique to a given property
+
 Title - the title of the property
 Label - the label of the property
 Type - whether a property is residential or commercial
