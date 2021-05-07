@@ -1,5 +1,7 @@
 # HousingPrices
 
+Used an NN algorithm on data available from zameen.com to predict the price category for houses while achieving 60% accuracy 
+
 File descriptions:
 The train.csv file has the price-category variable included. The train.csv file was used to train the machine-learning model.
 The other file named test.csv was for the final predictions of the model.
